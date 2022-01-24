@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/teal_700"
         android:text="@string/btn_roll"
-        android:textStyle="bold"
+        android:textStyle="italic"
 
         app:layout_constraintBottom_toTopOf="@+id/button_count"
         app:layout_constraintEnd_toEndOf="parent"
